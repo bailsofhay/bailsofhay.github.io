@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Bailey Morrison"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+
+editor: visual
+
