@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "Bailey Morrison",
-    "section": "",
-    "text": "This website is about me!"
+    "section": "Education",
+    "text": "Education\nUniversity of Illinois at Urbana-Champaign | Champaign, IL\nPhD in Ecology, Evolution, and Conservation Biology | Oct 2018\nUniversity of California, Davis | Davis, CA\nB.S. in Environmental Science and Management | June 2014"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Bailey Morrison",
+    "section": "Experience",
+    "text": "Experience\nUniversity of California, Merced | Project Scientist | Jan 2025 - Present\nUniversity of California, Merced | Postdoctoral Scholar | May 2021 - Dec 2024\nBrookhaven National Laboratory | Postdoctoral Research Scientist | Nov 2018 - April 2021"
   }
 ]
