@@ -1,16 +1,9 @@
 [
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Bailey Morrison",
-    "section": "Education",
-    "text": "Education\nUniversity of Illinois at Urbana-Champaign | Champaign, IL\nPhD in Ecology, Evolution, and Conservation Biology | Oct 2018\nUniversity of California, Davis | Davis, CA\nB.S. in Environmental Science and Management | June 2014"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Bailey Morrison",
-    "section": "Experience",
-    "text": "Experience\nUniversity of California, Merced | Project Scientist | Jan 2025 - Present\nUniversity of California, Merced | Postdoctoral Scholar | May 2021 - Dec 2024\nBrookhaven National Laboratory | Postdoctoral Research Scientist | Nov 2018 - April 2021"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bailey D. Morrison",
+    "section": "",
+    "text": "Bailey D. Morrison\n\n\n\n\n\n\n\n\nAbout Me\nI am a geospatial ecologist and Assistant Project Scientist in the Department of Civil & Environmental Engineering at the University of California, Merced.\nMy research interests focus on applications of remote sensing, spatial modeling, and data science to support ecological monitoring, habitat restoration, and conservation decision-making. I specialize in integrating UAV, satellite, and airborne remote sensing data with geospatial and statistical modeling techniques to monitor invasive species, map vegetation structure and composition, and assess floodplain dynamics in diverse ecosystems, from the Arctic tundra to California’s inland waterways.\nMy work is driven by a commitment to reproducible science, open data, and collaborative research that bridges the gap between ecological understanding and real-world environmental management."
   }
 ]

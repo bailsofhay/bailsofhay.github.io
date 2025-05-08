@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Bailey Morrison"
+  title: " "
   navbar:
     left:
       - text: "Home"
@@ -13,6 +13,6 @@ format:
     theme: minty
     css: styles.css
     toc: true
-
+    
 editor: visual
 
